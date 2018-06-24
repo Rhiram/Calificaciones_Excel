@@ -1,0 +1,53 @@
+c:\users\hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.exe.config
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.exe
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.pdb
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.dll
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.xml
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.Form1.resources
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.Properties.Resources.resources
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.csproj.GenerateResource.Cache
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.exe
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.pdb
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Hiram\documents\visual studio 2015\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.csproj.ResolveComReference.cache
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.exe.config
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.exe
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.pdb
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.dll
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.xml
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.Form1.resources
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.Properties.Resources.resources
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.csproj.GenerateResource.Cache
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.exe
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.pdb
+C:\Users\Hiram\Documents\Visual Studio 2017\Projects\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.exe.config
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.exe
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.pdb
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.exe
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.pdb
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.dll
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.xml
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.Form1.resources
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.Properties.Resources.resources
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.csproj.GenerateResource.Cache
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.exe.config
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.exe
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\Calificaciones_Alumnos.pdb
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.dll
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.xml
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.Form1.resources
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.Properties.Resources.resources
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.csproj.GenerateResource.Cache
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.exe
+C:\Users\Hiram\Documents\conduent\Calificaciones_Excel-master\Calificaciones_Excel-master\Calificaciones_Alumnos\Calificaciones_Alumnos\obj\Debug\Calificaciones_Alumnos.pdb
